@@ -13,7 +13,7 @@
 
 <p align="center">
    <a href="#endpoints">ENDPOINTS</a> •
-  <a href="#how to run it">RUN IT</a>
+  <a href="#runit">RUN IT</a>
 </p>
 
 ![XsypBTZ](https://github.com/rretta/CourseStudentManagement/assets/87555292/1d1d68fb-a5ad-41ea-8a7d-a4c963c9e96e)
@@ -41,7 +41,7 @@
 
 
 
-## HOW TO RUN IT
+## RUNIT
 
 - create a database named `coursestudentmanagerbd`.
 
